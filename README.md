@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.redbytes.in/wp-content/uploads/2018/05/rust-logo-png-transparent.png" height="40" alt="vuejs logo"  />
+  <img src="https://www.redbytes.in/wp-content/uploads/2018/05/rust-logo-png-transparent.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" height="40" alt="jquery logo"  />
 </div>
