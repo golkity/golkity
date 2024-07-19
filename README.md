@@ -1,4 +1,4 @@
-##Hey 👋 Hey🔥🔥🔥🔥
+## Hey 👋 Hey🔥🔥🔥🔥
 
 ### 🎧 About me:
 I'm a beginner web developer☃️ . I started my journey back in 2020, then I ended up in the online school Aitikompot, where I studied for a quarter in 2 weeks. After finishing my studies, I began to study web technologies on my own. A year later, I began to study my first language - Python, then C++ and C#, and now Rust.</p>
