@@ -1,11 +1,11 @@
-## Эй 👋 Приветик, меня зовут Даня!
+##Hey 👋 Hey🔥🔥🔥🔥
 
-### 🎧 Обо мне:
+### 🎧 About me:
 I'm a beginner web developer☃️ . I started my journey back in 2020, then I ended up in the online school Aitikompot, where I studied for a quarter in 2 weeks. After finishing my studies, I began to study web technologies on my own. A year later, I began to study my first language - Python, then C++ and C#, and now Rust.</p>
 
 
 
-## Навыки
+## Skills
 
 
 ### Frontend
@@ -32,7 +32,7 @@ I'm a beginner web developer☃️ . I started my journey back in 2020, then I e
 
 
 
-### Языки программирования
+### Programming Language
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -42,7 +42,7 @@ I'm a beginner web developer☃️ . I started my journey back in 2020, then I e
 
 
 
-### Инструменты
+### Tools
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
