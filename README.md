@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/t7oQ5DikEFQAAAAC/telegram-telegram-duck.gif"  />
+<img align="right" height="150" width="150" src="https://media1.tenor.com/m/t7oQ5DikEFQAAAAC/telegram-telegram-duck.gif"  />
 
 ###
 
