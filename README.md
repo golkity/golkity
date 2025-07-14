@@ -10,7 +10,7 @@
 ## 🖥️ Стек Back End
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"        alt="Go"          height="40" style="margin-right:10px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"        alt="Go"          height="40" style="margin-right:10px"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"      height="40" style="margin-right:10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"  height="40" style="margin-right:10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  alt="MySQL"       height="40" style="margin-right:10px">
