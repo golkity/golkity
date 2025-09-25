@@ -80,8 +80,6 @@
 
 <br/> 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/golkity/golkity/output/pacman-contribution-graph-dark.svg">
