@@ -67,20 +67,3 @@
 </td></tr></table>  
 
 
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golkity&hide_border=true&layout=compact" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=golkity&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
-
-<br/> 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/golkity/golkity/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/golkity/golkity/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph"
-       src="https://raw.githubusercontent.com/golkity/golkity/output/pacman-contribution-graph.svg">
-</picture>
